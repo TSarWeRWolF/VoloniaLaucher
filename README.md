@@ -1,0 +1,1 @@
+My name is Andriy Filonchuk, I am a junior programmer from Ukraine, I am engaged in the development of GUI utilit, tg bots, ds bots on Python and other small programs on Python. For questions, write to me in private at gfrtyd789@gmail.com
